@@ -15,7 +15,7 @@ There are other themes that look nice but the [Material Theme](https://github.co
 
 ## Preferences
 The following settings can be added to User Preferences to turn on the theme, make things a lot more readable, hide some things I don't want to see and use spaces in a way that Git likes. The font I prefer is [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono).
-```
+```json
 {
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
