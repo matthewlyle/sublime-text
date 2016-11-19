@@ -71,3 +71,8 @@ JSON is very particular to how it's formatted and I'm too cool for all that so t
 ### Markdown Preview
 When writing README's or blog posts it's nice to see what Markdown looks like before committing. This plugin lets you open up a preview in your browser by typing __HTML Markdown Preview__ in Package Control.
 
+## Yay
+Now you're done. Hopefully this was helpful or a good starting off point to get an editor going that you find cute and want to hold hands with.
+
+[@mmatthewlyle](http://twitter.com/mmatthewlyle)
+[processyellow.ca](http://processyellow.ca)
