@@ -75,4 +75,5 @@ When writing README's or blog posts it's nice to see what Markdown looks like be
 Now you're done. Hopefully this was helpful or a good starting off point to get an editor going that you find cute and want to hold hands with.
 
 [@mmatthewlyle](http://twitter.com/mmatthewlyle)
+
 [processyellow.ca](http://processyellow.ca)
