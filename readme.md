@@ -14,7 +14,7 @@ There are other themes that look nice but the [Material Theme](https://github.co
 ) is by far my favourite and I use it on all my machines. Make sure to install the extra App Bar and White Inputs. All three can be installed via Package Control.
 
 ## Preferences
-The following settings can be added to User Preferences to turn on the theme and make a lot of things more readable. The font I prefer is [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono).
+The following settings can be added to User Preferences to turn on the theme, make things a lot more readable, hide some things I don't want to see and use spaces in a way that Git likes. The font I prefer is [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono).
 ```
 {
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
