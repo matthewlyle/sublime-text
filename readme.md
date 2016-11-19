@@ -2,7 +2,7 @@
 
 This guide will walk through how I set [Sublime Text](https://www.sublimetext.com) up on all my machines.
 
-![Screenshot](/screenshot.png.jpg?raw=true)
+![Screenshot](/screenshot.png?raw=true)
 
 ## Package Control
 [Package Control](https://packagecontrol.io) allows you to install and manage packages directly from Sublime Text, and will be used to install everything following. Follow the very simple instructions on the website to get it installed, which can all be done directly in Sublime Text.
