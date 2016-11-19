@@ -13,7 +13,8 @@ There are other themes that look nice but the [Material Theme](https://github.co
 
 ## Preferences
 The following settings can be added to User Preferences to turn on the theme and make a lot of things more readable. The font I prefer is [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono).
-```{
+```
+{
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"folder_exclude_patterns":
