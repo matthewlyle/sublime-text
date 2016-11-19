@@ -3,12 +3,7 @@
 This guide will walk through how I set [Sublime Text](https://www.sublimetext.com) up on all my machines.
 
 ## Package Control
-[Package Control](https://packagecontrol.io) allows you to install and manage packages directly from Sublime Text, and will be used to install everything following.
-
-To install, type `ctrl+` (or go to View > Show console) and then enter
-```
-import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)
-```
+[Package Control](https://packagecontrol.io) allows you to install and manage packages directly from Sublime Text, and will be used to install everything following. Follow the very simple instructions on the website to get it installed, which can all be done directly in Sublime Text.
 
 After it's installed, use `Shift + CMD + P` and then type _Package Control_ to see the available commands. __Install Package__ will be the most useful one for this guide.
 
