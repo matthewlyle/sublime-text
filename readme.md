@@ -56,7 +56,7 @@ The following settings can be added to User Preferences to turn on the theme, ma
 ## Plugins
 I only use a few plugins, but I find them pretty integral. All of them can be installed via Package Control.
 
-### Sidebar Controls
+### Sidebar Enhancements
 This should be included in Sublime Text. This plugin allows you to do Finder-like operations (e.g rename, move, open in browser) via right click.
 
 ### Emmett
