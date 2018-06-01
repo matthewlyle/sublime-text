@@ -65,9 +65,6 @@ This should be included in Sublime Text. This plugin allows you to do Finder-lik
 ### Languages
 Install support for whatever languages that you use that aren't included by default. For me right now that's Sass, Jade and Vue.
 
-### PrettyJSON
-JSON is very particular to how it's formatted and I'm too cool for all that so this lets you highlight a block of JSON and type `CTRL + CMD + J` to keep it perfect.
-
 ### Markdown Preview
 When writing README's or blog posts it's nice to see what Markdown looks like before committing. This plugin lets you open up a preview in your browser by typing __HTML Markdown Preview__ in Package Control.
 
